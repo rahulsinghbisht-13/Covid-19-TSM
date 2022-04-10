@@ -1,5 +1,5 @@
 <?php
-//time zone
+//time zone - Indian
 date_default_timezone_set('Asia/Kolkata');
 //database connection
 $con=mysqli_connect("localhost","root","","covidtmsdb");
