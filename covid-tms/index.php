@@ -113,7 +113,7 @@ Reported illnesses have ranged from mild symptoms to severe illness and death</p
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2020</p>
+      <p class="m-0 text-center text-white">Copyright &copy; Rahul Singh Bisht 2022</p>
     </div>
     <!-- /.container -->
   </footer>
